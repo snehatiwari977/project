@@ -2,9 +2,13 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div>
-      
+   <>
+   <footer className='bg-amber-500 py-3 text-center'>
+    <div className="container mx-auto">
+    Footer
     </div>
+   </footer>
+   </>
   )
 }
 
